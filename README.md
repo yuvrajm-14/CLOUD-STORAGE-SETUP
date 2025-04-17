@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5ca884c8-a7c9-4b53-9770-d6c229b354aa)# CLOUD-STORAGE-SETUP
+# CLOUD-STORAGE-SETUP
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
@@ -80,7 +80,6 @@ STEP 6: Test the Setup
 
 
 ![image](https://github.com/user-attachments/assets/d9e0990d-0885-42c1-8923-3761d266ec35)
-
 
 
 
