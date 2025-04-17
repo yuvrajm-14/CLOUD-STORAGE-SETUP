@@ -85,11 +85,11 @@ STEP 6: Test the Setup
 ![image](https://github.com/user-attachments/assets/f11e34e2-bd57-4c70-b82d-5846f3d261d1)
 
 
-![image](https://github.com/user-attachments/assets/8deba23d-7330-449c-888e-097b050381fd)
-
-
 
 ![image](https://github.com/user-attachments/assets/d9e0990d-0885-42c1-8923-3761d266ec35)
+
+
+![image](https://github.com/user-attachments/assets/8deba23d-7330-449c-888e-097b050381fd)
 
 
 
